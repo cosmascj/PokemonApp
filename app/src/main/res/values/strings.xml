@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">upload</string>
+    <string name="title_dashboard">pokemon</string>
+    <string name="Access_permission_granted">Permission Granted</string>
+    <string name="Access_permission_denied">Permission Denied</string>
+    <string name="access_required">Acess required</string>
+    <string name="ok">OK</string>
+
+    <string name="permission_not_available">permission not avaiable</string>
+    <string name="permission_available">Permission available</string>
+
+</resources>
